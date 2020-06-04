@@ -5,6 +5,7 @@ import router from './router'
 import store from './store'
 import './plugins/element.js'
 import i18n from './i18n'
+import './assets/theme-chalk/index.css'
 
 Vue.config.productionTip = false
 
